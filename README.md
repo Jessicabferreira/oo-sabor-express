@@ -1,4 +1,4 @@
-# OO Sabor Express!
+# Sabor Express!
 
 Segunda parte do Curso Alura
 
