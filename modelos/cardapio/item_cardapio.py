@@ -9,4 +9,3 @@ class ItemCardapio(ABC):
     def aplicar_desconto(self):
         pass
     
-        
